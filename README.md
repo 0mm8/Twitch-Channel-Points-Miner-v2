@@ -716,7 +716,7 @@ pkg install python-pandas
 
 **4. Clone this repository**
 
-`git clone https://github.com/rdavydov/Twitch-Channel-Points-Miner-v2`
+`git clone https://github.com/0mm8/Twitch-Channel-Points-Miner-v2`
 
 **5. Go to the miner's directory**
 
@@ -724,7 +724,7 @@ pkg install python-pandas
 
 **6. Configure your miner on your preferences by typing**
 
-`nano example.py`
+`nano run.py`
 
 **7. Rename file name (optional)**
 
